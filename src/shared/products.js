@@ -95,6 +95,15 @@ const categorias = [
                 color: "Gris",
                 modelo: "xEE212gt34",
                 stock: 100
+            },
+            {
+                id: 4,
+                nombre: "Baterias",
+                marca: "Jitako",
+                precio: 600,
+                color: "Gris",
+                modelo: "xEE212gt34",
+                stock: 100
             }
         ]
     }
